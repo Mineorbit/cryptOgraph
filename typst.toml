@@ -1,0 +1,8 @@
+[package]
+name = "cryptograph"
+version = "0.0.1"
+entrypoint "cryptograph.typ"
+authors = ["Maximilian Stillger"]
+license = "None"
+description = "Graph that cryptology!"
+

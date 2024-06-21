@@ -1,0 +1,1 @@
+#let secpar = [#sym.lambda]
