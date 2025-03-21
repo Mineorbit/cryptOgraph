@@ -1,6 +1,6 @@
 // symbols & vars
 #let bigO(f) = [$O(#f)$]
-#let eps = $ϵ$
+#let eps = [#sym.varepsilon]
 #let secpar = [#sym.lambda]
 
 // turing machines
